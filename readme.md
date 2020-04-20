@@ -2,9 +2,9 @@
 
 run `npm start` and input your github name
 
-please note that you alraedy on your own git branch with name `yourName-string-methods`
-find folder with your name
-implement all methods in there files
+please note that you alraedy on your own git branch with name `yourName-string-methods`  
+find folder with your name  
+implement all methods in there files  
 run `npm test`
 
 if all tests are passed commit your changes, push them and create PR
