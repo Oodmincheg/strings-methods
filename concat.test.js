@@ -1,5 +1,6 @@
 // import concat from './concat'
-const myConcat = require('./concat')
+const name = require('./name')
+const myConcat = require(`./${name}/concat`)
 String.prototype.myConcat = myConcat
 
 test('concat a & b chars to \'ab\'', () => {
