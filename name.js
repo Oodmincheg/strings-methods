@@ -1,1 +1,1 @@
-module.exports =  'oodmincheg'
+module.exports =  'another'
