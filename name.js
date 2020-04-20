@@ -1,1 +1,1 @@
-module.exports = 'kek-2'
+module.exports = 'oodmincheg-2'
