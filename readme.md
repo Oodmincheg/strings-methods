@@ -1,5 +1,6 @@
 # How to start
 
+run `npm install`  
 run `npm start` and input your github name
 
 please note that you alraedy on your own git branch with name `yourName-string-methods`  
