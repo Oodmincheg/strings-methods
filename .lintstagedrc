@@ -1,6 +1,6 @@
 {
     "*.{js,jsx}": [
-      "eslint --no-ignore --fix",
+      "eslint --no-ignore",
       "git add --force"
     ],
     "*.{json,md,graphql}": [
@@ -8,7 +8,7 @@
       "git add --force"
     ],
     "*.{css,less,styl,scss,sass,sss}": [
-      "stylelint --fix",
+      "stylelint",
       "git add --force"
     ]
   }
