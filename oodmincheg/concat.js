@@ -1,5 +1,5 @@
-// const concat = function concat() {
-//     // implement your function here
-// }
+const concat = function concat(...args) {
+  return `${this}${args.join('')}`;
+};
 
-module.exports = String.prototype.concat
+module.exports = concat;
