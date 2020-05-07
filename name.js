@@ -1,1 +1,1 @@
-module.exports = 'oodmincheg-2'
+module.exports = 'oodmincheg-2';
